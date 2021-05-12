@@ -1,5 +1,5 @@
 
-[](https://dmitry.gr) {tags electronics, reverse-engineering, blog, watchdog}
+(https://dmitry.gr) {tags electronics, reverse-engineering, blog, watchdog}
 
 [Saleae Logic][https://www.saleae.com/] {tags products, electronics, reverse-engineering} {comment "logic analyzer recommended in https://dmitry.gr"}
 
