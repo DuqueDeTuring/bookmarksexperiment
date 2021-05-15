@@ -15,6 +15,6 @@
 
 [Terminal and initial objects 1](https://youtu.be/yeQcmxM2e5I) {cs, category-theory, video}
 
-[Category theory for the working hacker by Philip Wadler](https://youtu.be/V10hzjgoklA) {cs, category-theory, video}
+[Category theory for the working hacker by Philip Wadler](https://youtu.be/V10hzjgoklA) {cs, category-theory, video, ❤️}
 
 [Category Theory](https://plato.stanford.edu/entries/category-theory/) {sep, category-theory, cs}
