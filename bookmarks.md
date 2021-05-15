@@ -1,8 +1,8 @@
 [prueba](prueba.com) {lol{
 
-[dmitry.gr](https://dmitry.gr) {electronics re blog watchdog{
+[dmitry.gr](https://dmitry.gr) {electronics re blog watchdog}
 
-[Saleae Logic](https://www.saleae.com/) {products, electronics, reverse-engineering{ {comment "logic analyzer recommended in https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller" }
+[Saleae Logic](https://www.saleae.com/) {products, electronics, reverse-engineering} {comment "logic analyzer recommended in https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller" }
 
 [Ursula K. Le Guin](https://www.ursulakleguin.com/home/) { watchdog, ❤️}
 
