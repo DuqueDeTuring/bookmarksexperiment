@@ -13,3 +13,6 @@
 
 [Category Theory: Lecture Notes And Online Books](https://www.logicmatters.net/categories/) {cs, category-theory}
 
+[Terminal and initial objects 1](https://youtu.be/yeQcmxM2e5I) {cs, category-theory, video}
+
+[Category theory for the working hacker by Philip Wadler](https://youtu.be/V10hzjgoklA) {cs, category-theory, video}
