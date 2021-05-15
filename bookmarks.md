@@ -7,3 +7,9 @@
 
 [gofeed](https://github.com/mmcdole/gofeed) {tags code, rss, github}
 
+[Getting Started with ESP8266 WiFi Transceiver (Review)](https://randomnerdtutorials.com/getting-started-with-esp8266-wifi-transceiver-review/) {electronics}
+
+[How to Flash ESP-01 Firmware to the Improved SDK v2.0.0](https://www.allaboutcircuits.com/projects/flashing-the-ESP-01-firmware-to-SDK-v2.0.0-is-easier-now/) {electronics}
+
+[Category Theory: Lecture Notes And Online Books](https://www.logicmatters.net/categories/) {cs, category-theory}
+
